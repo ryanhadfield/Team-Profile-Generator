@@ -183,7 +183,7 @@ const generateHTML = (card) => {
           }
   
           .hero-image {
-              background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("./public/officespace.jpg");
+              background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./public/officespace.jpg");
               height: 25%;
               background-position: center;
               background-repeat: no-repeat;
@@ -272,6 +272,6 @@ function generateTeamProfile() {
     }
   }
 
-  fs.writeFileSync("Sample_team.html", generateHTML(card))
+  fs.writeFileSync("web_team.html", generateHTML(card))
 }
 
