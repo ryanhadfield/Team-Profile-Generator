@@ -4,7 +4,9 @@
 
 Use this Node.js command-line application that takes in information about employees on a web engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so I've written a unit test and ensure the code passes the tests. 
 
-Link to walk-through [video](https://drive.google.com/file/d/1vFo1V3kMbDpaK6gI7vOLFfnNhhLBGBvj/view) of how to use this app. 
+Link to [walk through video](https://drive.google.com/file/d/1alWX3lKTcEL4QkLLzFKlir5iWiuj29et/view?usp=sharing) of how to use this app. 
+
+Link to tests: [test video](https://drive.google.com/file/d/1TFUCY0LZ9sQkcgYv5703Le0GTEwnrs0a/view)
 
 ---
 
