@@ -11,7 +11,7 @@ Link to tests: [test video](https://drive.google.com/file/d/1TFUCY0LZ9sQkcgYv570
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
